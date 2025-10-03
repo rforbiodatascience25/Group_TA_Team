@@ -8,4 +8,8 @@ Top 10 Bio Data Science Languages of ALL Time:
 4. has
 3. different
 2. tastes
+<<<<<<< HEAD
 1. Fortran
+=======
+1. python
+>>>>>>> 047e8dc44d73cae28648c9adb77c080d69f3e2e9
