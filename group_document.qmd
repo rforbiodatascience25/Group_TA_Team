@@ -22,11 +22,19 @@ mpg |>
 
 ## Melanie
 
-This is a interesting exercise!
+This is an interesting exercise!
 
 ```{r}
 2+2 
 a <- 5
+```
+
+## New analysis
+
+bla bla bla some text
+
+```{r}
+b <- 10
 ```
 
 ## Zitian
