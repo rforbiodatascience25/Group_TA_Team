@@ -36,3 +36,7 @@ Best course at DTU
 ```{r}
 x <- 0
 ```
+
+### New Analysis
+
+This is the new analysis using "my_branch".
