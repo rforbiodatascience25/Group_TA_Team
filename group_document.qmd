@@ -5,6 +5,21 @@ format: html
 
 ## Daniel
 
+```{r}
+#| fig-width: 7
+#| fig-height: 7
+
+library("tidyverse")
+
+mpg |>
+  ggplot(aes(displ, hwy, colour = drv)) + 
+  geom_point(show.legend = FALSE, size = 4) + 
+  geom_point(show.legend = FALSE, size = 1, colour = "#222222") + 
+  coord_polar() + 
+  theme_void() + 
+  scale_color_brewer()
+```
+
 ## Melanie
 
 This is a interesting exercise!
