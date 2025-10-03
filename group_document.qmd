@@ -20,6 +20,12 @@ mpg |>
   scale_color_brewer()
 ```
 
+### New analysis
+
+```{r}
+print("This course ha such great TAs!!!")
+```
+
 ## Melanie
 
 This is a interesting exercise!
